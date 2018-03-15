@@ -1772,6 +1772,7 @@ body {
 }
 .cid-qLpQsjm6wE .mbr-testimonial .panel-item {
   background-color: #333333;
+  background: linear-gradient(#333333, transparent);
 }
 .cid-qLpQsjm6wE .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
